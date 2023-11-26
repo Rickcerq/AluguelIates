@@ -1,0 +1,30 @@
+.inline {display: inline-block;}
+
+#posição {margin-left: 20px;}
+
+#posição2 {margin-left: 10px;}
+
+div {display: inline;}
+
+#posição3 {margin-left: 80px;}
+
+#tamanho{font-size: 34px;}
+
+#tamanho2 {width: 978; height: 99;}
+
+#imagem {background-image:url(barcoprincipal.jpg); box-sizing: content-box; width: 1010; height: 850; margin:100px auto; font-family: 'Montserrat'; }
+
+.font-tamanho {font-size: 20px;}
+
+#comentário {background-color:hsl(212, 21%, 14%); color: white; margin-left: 650px; margin-top: 200px; box-sizing: content-box; width: 421px; height: 125px; }
+
+#destinos {box-sizing: content-box; width: 500px; height: 100px;}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;}
+
+    td {
+        padding: 15px;}
+
+#Fraunces {font-family: 'Fraunces';}
